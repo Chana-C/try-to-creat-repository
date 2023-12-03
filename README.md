@@ -8,4 +8,4 @@ I do it in date 01/12/2023. Icreat this repository in the botten new in reposito
 
 ```
 int num = 100;
-```cpp
+```
