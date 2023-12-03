@@ -6,6 +6,6 @@ I do it in date 01/12/2023. Icreat this repository in the botten new in reposito
 ##I do this title
 ###I do this title
 
-```
+```cpp
 int num = 100;
 ```
